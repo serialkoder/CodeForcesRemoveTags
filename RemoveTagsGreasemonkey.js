@@ -5,7 +5,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Remove Tags from the page
-// @author       Syam
+// @author       Serial
 // @match        https://codeforces.com/*
 // @grant        none
 // ==/UserScript==
